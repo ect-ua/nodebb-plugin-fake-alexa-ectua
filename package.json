@@ -1,11 +1,11 @@
 {
-  "name": "nodebb-plugin-tudopreso-ectua",
+  "name": "nodebb-plugin-fake-alexa-ectua",
   "version": "1.0.5",
-  "description": "Está tudo preso, seus cabrões!",
+  "description": "Fake alexa",
   "main": "library.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ect-ua/nodebb-plugin-tudopreso-ectua"
+    "url": "https://github.com/ect-ua/nodebb-plugin-fake-alexa-ectua"
   },
   "keywords": [
     "nodebb",
@@ -22,7 +22,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ect-ua/nodebb-plugin-tudopreso-ectua/issues"
+    "url": "https://github.com/ect-ua/nodebb-plugin-fake-alexa-ectua/issues"
   },
   "readme": "",
   "readmeFilename": "README.md",
