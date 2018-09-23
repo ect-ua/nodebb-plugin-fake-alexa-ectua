@@ -1,0 +1,33 @@
+{
+  "name": "nodebb-plugin-tudopreso-ectua",
+  "version": "1.0.5",
+  "description": "Está tudo preso, seus cabrões!",
+  "main": "library.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ect-ua/nodebb-plugin-tudopreso-ectua"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "tudo",
+    "preso",
+    "ect",
+    "ua",
+    "ect-ua"
+  ],
+  "author": {
+    "name": "David Lopes",
+    "email": "andrelopes@davidsilva.pt"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ect-ua/nodebb-plugin-tudopreso-ectua/issues"
+  },
+  "readme": "",
+  "readmeFilename": "README.md",
+  "nbbpm": {
+    "compatibility": "^1.0.1",
+    "index": false
+  }
+}

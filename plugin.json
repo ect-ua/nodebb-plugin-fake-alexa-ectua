@@ -1,0 +1,10 @@
+{
+	"id": "nodebb-plugin-tudopreso-ectua",
+	"name": "Esta tudo preso, seus cabroes!",
+	"description": "Esta tudo preso, seus cabroes!",
+	"url": "https://github.com/ect-ua/nodebb-plugin-tudopreso-ectua",
+	"library": "./library.js",
+	"hooks": [
+		{ "hook": "action:notification.pushed", "method": "invokeBot" }
+	]
+}
