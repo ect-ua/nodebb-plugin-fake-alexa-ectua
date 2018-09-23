@@ -45,7 +45,6 @@
 		var from = notification.from;
 		var bodyLong = notification.bodyLong;
 
-		
 		user.getUserField(from, 'username', function(err, username) {
 			if (err) {
 				winston.error('[alexa] Não encontrei uid');
@@ -94,6 +93,5 @@
 		
 	}
   };
-
 	module.exports = FakeAlexa;
 }(module));
